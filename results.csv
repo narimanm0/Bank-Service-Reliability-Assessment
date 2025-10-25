@@ -1,0 +1,7 @@
+Metric,Count
+Total Requests,109
+Successful Requests,61
+Failures - Internal Server Error (500),10
+Failures - Database Connection Pool Empty,38
+Warnings - Server Latency,25
+Reliability (%),55.96
